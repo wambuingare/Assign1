@@ -3,11 +3,11 @@ fun main (){
     var age:Byte=(22)
     var phoneNumber=("0725124209")
     var weight:Int=(50)
-    var kenyan:Boolean=true
+    var Ugandann:Boolean=true
 
 println(name)
         println(age)
         println(phoneNumber)
         println(weight)
-        println(kenyan)
+        println(Ugandann)
 }
